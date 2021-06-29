@@ -1,5 +1,13 @@
 # ToDo List 📝 
-Application for managing your tasks. Allows you to create tasks, edit and mark their completion. Supports authentication and allows you to create tasks independently of other users. Search by tasks is implemented.
+Application for managing your tasks.
+
+Features:
+
+- Task Creation
+- Task Editing
+- Task Completion Marking
+- User Authentication
+- Search By Tasks
 
 ## UI
 
